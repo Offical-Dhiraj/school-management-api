@@ -28,7 +28,7 @@ This project provides APIs to manage school data using Node.js, Express, and MyS
 
 ### 1. Clone repo
 
-git clone https://github.com/YOUR_USERNAME/school-management-api.git
+git clone https://github.com/Offical-Dhiraj/school-management-api
 
 ### 2. Install dependencies
 
@@ -86,3 +86,6 @@ Use Postman collection for testing APIs.
 ## 👨‍💻 Author
 
 Dhiraj Kumar
+
+
+
